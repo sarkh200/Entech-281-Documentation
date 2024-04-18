@@ -18,7 +18,7 @@ Welcome to the docs! Try out the different pages!
 
 ## Tip:
 
-**Use the search feature to quickly find what you are looking for**
+**Use the search feature to quickly find what you are looking for (also has AI search)**
 
 
 
