@@ -2,7 +2,7 @@
 description: Example page for showing programming-specific features
 ---
 
-# 💡 How to code
+# How to code
 
 {% embed url="https://github.com/entech281/Robot2024" %}
 Link to 2024 github repo

@@ -1,10 +1,9 @@
 ---
-description: This is the home page
 layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -13,13 +12,21 @@ layout:
     visible: false
 ---
 
-# ⭐ Welcome!
+# ⭐ Welcome
 
-Welcome to the docs! Try out the different pages and maybe even add your own!
+Welcome to the docs! Try out the different pages!
+
+## Tip:
+
+**Use the search feature to quickly find what you are looking for**
 
 
 
-### Table of Contents
+## Table of Contents
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
