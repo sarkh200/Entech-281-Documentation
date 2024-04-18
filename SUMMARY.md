@@ -3,32 +3,41 @@
 * [⭐ Welcome](README.md)
 * [🔗 General Links](general-links/README.md)
   * [Link to our website](https://www.entechrobotics.org/)
+  * [FRC-specific links](general-links/frc-specific-links/README.md)
+    * [FRCManual.com](https://www.frcmanual.com/)
+    * [The Blue Alliance](https://www.thebluealliance.com/)
+    * [Statbotics](https://www.statbotics.io/)
+    * [FRCLocks](https://frclocks.com/)
+    * [FRC Divisions](https://frc.divisions.co/)
 
 ## 🛠️ Mechanical
 
-* [🔗 Links](mechanical/links.md)
-* [Machining](mechanical/machining/README.md)
-  * [Milling machine (Example)](mechanical/machining/milling-machine.md)
+* [🔗 Mechanical Links](mechanical/mechanical-links.md)
+* [Machining Tutorials](mechanical/machining-tutorials/README.md)
+  * [Milling machine (Example)](mechanical/machining-tutorials/milling-machine.md)
 
 ## ⚡ Electrical
 
-* [🔗 Links](electrical/links.md)
+* [🔗 Electrical Links](electrical/electrical-links/README.md)
+  * [FRC Hardware Basics](https://docs.wpilib.org/en/latest/docs/hardware/hardware-basics/index.html)
 * [How to solder (Example)](electrical/how-to-solder.md)
 
 ## 🖥️ Programming
 
-* [🔗 Links](programming/links/README.md)
+* [🔗 Programming Links](programming/programming-links/README.md)
   * [⭐ Entech github](https://github.com/entech281)
   * [⭐ WPILIB docs](https://docs.wpilib.org/en/stable/index.html)
-  * [Git/GitHub](programming/links/git-github/README.md)
+  * [WPILIB](programming/programming-links/wpilib/README.md)
+    * [FRC programming basics](https://docs.wpilib.org/en/stable/stubs/programming-basics-stub.html)
+  * [Git/GitHub](programming/programming-links/git-github/README.md)
     * [⭐ Git docs](https://git-scm.com/docs/gittutorial)
-    * [Getting Started](programming/links/git-github/getting-started/README.md)
+    * [Getting Started](programming/programming-links/git-github/getting-started/README.md)
       * [Getting started with GitHub](https://docs.github.com/en/get-started)
-    * [Download links](programming/links/git-github/download-links/README.md)
+    * [Download links](programming/programming-links/git-github/download-links/README.md)
       * [GitHub cli](https://cli.github.com/)
       * [Git for Windows](https://git-scm.com/download/win)
-  * [Java](programming/links/java/README.md)
-    * [Getting Started](programming/links/java/getting-started/README.md)
+  * [Java](programming/programming-links/java/README.md)
+    * [Getting Started](programming/programming-links/java/getting-started/README.md)
       * [Java website](https://dev.java/)
       * [W3Schools](https://www.w3schools.com/java/)
       * [GeeksforGeeks](https://www.geeksforgeeks.org/java-tutorial/)
@@ -36,4 +45,10 @@
 
 ## 📐 Design/CAD
 
-* [Links](design-cad/links.md)
+* [🔗 Design/CAD Links](design-cad/design-cad-links/README.md)
+  * [CAD](design-cad/design-cad-links/cad/README.md)
+    * [Solidworks](design-cad/design-cad-links/cad/solidworks/README.md)
+      * [Solidworks tutorial](https://my.solidworks.com/training/playlist/7)
+  * [Design](design-cad/design-cad-links/design/README.md)
+    * [Design Guides](design-cad/design-cad-links/design/design-guides/README.md)
+      * [NASA Robotics Design Guide](https://robotics.nasa.gov/downloads/nasarap-rdc-v101-compressed.pdf)
