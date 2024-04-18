@@ -41,7 +41,7 @@
       * [Java website](https://dev.java/)
       * [W3Schools](https://www.w3schools.com/java/)
       * [GeeksforGeeks](https://www.geeksforgeeks.org/java-tutorial/)
-* [How to code](programming/how-to-code.md)
+* [How to code (example)](programming/how-to-code.md)
 
 ## 📐 Design/CAD
 
