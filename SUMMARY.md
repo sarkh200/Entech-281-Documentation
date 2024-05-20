@@ -52,3 +52,6 @@
   * [Design](design-cad/design-cad-links/design/README.md)
     * [Design Guides](design-cad/design-cad-links/design/design-guides/README.md)
       * [NASA Robotics Design Guide](https://robotics.nasa.gov/downloads/nasarap-rdc-v101-compressed.pdf)
+* [⚙️ Mentoring](design-cad/mentoring/README.md)
+  * [FRC Mentoring Guide](https://www.firstinspires.org/sites/default/files/uploads/resource\_library/frc/team-resources/frc\_mentor\_guide.pdf)
+  * [Consensus Building Guidelines and Bylines](design-cad/mentoring/consensus-building-guidelines-and-bylines.md)
